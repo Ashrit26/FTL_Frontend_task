@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FTL_Frontend_task/static/css/main.2c14ec1c.chunk.css",
+    "main.js": "/FTL_Frontend_task/static/js/main.ecb738a9.chunk.js",
+    "main.js.map": "/FTL_Frontend_task/static/js/main.ecb738a9.chunk.js.map",
+    "runtime-main.js": "/FTL_Frontend_task/static/js/runtime-main.435b55b1.js",
+    "runtime-main.js.map": "/FTL_Frontend_task/static/js/runtime-main.435b55b1.js.map",
+    "static/js/2.7727d826.chunk.js": "/FTL_Frontend_task/static/js/2.7727d826.chunk.js",
+    "static/js/2.7727d826.chunk.js.map": "/FTL_Frontend_task/static/js/2.7727d826.chunk.js.map",
+    "index.html": "/FTL_Frontend_task/index.html",
+    "precache-manifest.29eca3ca6aa35049dd35a1ab4a038d0e.js": "/FTL_Frontend_task/precache-manifest.29eca3ca6aa35049dd35a1ab4a038d0e.js",
+    "service-worker.js": "/FTL_Frontend_task/service-worker.js",
+    "static/css/main.2c14ec1c.chunk.css.map": "/FTL_Frontend_task/static/css/main.2c14ec1c.chunk.css.map",
+    "static/js/2.7727d826.chunk.js.LICENSE.txt": "/FTL_Frontend_task/static/js/2.7727d826.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.435b55b1.js",
+    "static/js/2.7727d826.chunk.js",
+    "static/css/main.2c14ec1c.chunk.css",
+    "static/js/main.ecb738a9.chunk.js"
+  ]
+}
