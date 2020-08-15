@@ -1,6 +1,6 @@
 ## User Activity Tool
 
-View demo for this tool [here](Insert github pages link here) 
+View demo for this tool [here](https://ashrit26.github.io/FTL_Frontend_task/) 
 
 ### Run it on your local system
 
